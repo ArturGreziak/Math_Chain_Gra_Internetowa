@@ -1,0 +1,45 @@
+MATH CHAIN — KOMPLETNA GRA INTERNETOWA
+
+URUCHOMIENIE NA KOMPUTERZE
+1. Rozpakuj ZIP (prawy przycisk myszy → Wyodrębnij wszystkie).
+2. Otwórz folder math-chain-web.
+3. Kliknij dwukrotnie index.html. Gra otworzy się w przeglądarce.
+Nie trzeba instalować Node.js, Expo ani dodatkowych pakietów.
+Gra działa bez internetu. Wszystkie zasoby są w paczce.
+
+UMIESZCZENIE W INTERNECIE
+Wgraj index.html, style.css, engine.js, app.js oraz icon.svg do jednego
+folderu na hostingu statycznym. index.html musi znajdować się w katalogu
+publikowanym. Zachowaj nazwy plików. Paczka ZIP wymaga rozpakowania.
+Możesz użyć GitHub Pages lub dowolnego hostingu plików HTML.
+Nie ma serwera, kont użytkowników ani zewnętrznych bibliotek.
+
+JAK GRAĆ
+Let's play → wybierz Classic lub Sprint → kliknij dostępny poziom.
+Wpisz wynik klawiaturą albo przyciskami ekranowymi i kliknij Check.
+W Classic nie ma limitu czasu. W Sprint masz 2 minuty na 10 działań.
+Nawiasy mają pierwszeństwo, potem mnożenie i dzielenie,
+a na końcu dodawanie i odejmowanie. Równorzędne działania od lewej.
+Wszystkie wyniki są całkowite, czasami ujemne.
+Hint pokazuje wskazówkę. Pierwsze 3 są bezpłatne w każdej rundzie,
+potem każda kosztuje 25 monet. Za ukończenie rundy dostajesz 50 monet.
+Kolejny poziom odblokowuje się po ukończeniu poprzedniego.
+
+RESET
+Na stronie głównej kliknij Reset progress i potwierdź.
+Usuwane są tylko dane tej gry. Inne dane przeglądarki pozostają.
+
+ZAPIS
+Postęp, monety, najlepszy wynik i ustawienie dźwięku zapisują się lokalnie.
+Zapis zależy od dostępności pamięci przeglądarki; w trybie prywatnym lub
+przy otwieraniu pliku lokalnego może być ograniczony. Wtedy gra wyświetla
+komunikat. Dane nie przenoszą się między urządzeniami ani adresami stron.
+Niedokończona runda nie jest zapisywana po zamknięciu lub odświeżeniu strony.
+Czas w Sprint biegnie również po przejściu do innej karty.
+
+ZAWARTOŚĆ
+15 poziomów, losowe zestawy działań, 2 tryby, podpowiedzi, monety,
+odblokowywanie poziomów, podsumowania odpowiedzi, efekty dźwiękowe,
+obsługa telefonu i komputera oraz reset postępów.
+Interfejs gry jest w języku angielskim, zgodnie z załączonym opisem.
+To wersja przeglądarkowa. Nie zawiera AdMob ani reklam i nie jest APK.
